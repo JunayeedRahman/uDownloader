@@ -7,7 +7,7 @@
     "browser_action":
     {
         "default_icon": "icon_19.png",
-        "default icon": "index.html"
+        "default_popup": "index.html"
     },
     "permissions": ["activeTab"]
 
