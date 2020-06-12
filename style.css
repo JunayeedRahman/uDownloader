@@ -21,6 +21,16 @@ img{
     width: 30px;
 }
 
-.convert-button{
-    position: absolute;
+.button{
+    background-color: #cc0000;
+    border: none;
+    color: white;
+    /*padding: 20px 34px;*/
+    font-family: Roboto, Arial, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
