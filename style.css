@@ -1,8 +1,26 @@
 body{
     background-color: rgb(68, 68, 68);
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 14px; 
+    min-height: 180px;
+    width: 384px;
 }
 h1{
     color: white; 
-    font-size: 22px; 
     font-family: Roboto, Arial, sans-serif;
+    font-size: 22px; 
+    margin: 0;
+}
+
+p{
+    color: white;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+img{
+    width: 30px;
+}
+
+.convert-button{
+    position: absolute;
 }
