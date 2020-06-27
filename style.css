@@ -5,6 +5,12 @@ body{
     min-height: 180px;
     width: 384px;
 }
+
+/* 
+header {
+}
+*/
+
 h1{
     color: white; 
     font-family: Roboto, Arial, sans-serif;
@@ -21,16 +27,25 @@ img{
     width: 30px;
 }
 
+/*css:
+margin to center
+padd down
+*/
+.input{
+    width: 200px;
+}
+
 .button{
     background-color: #cc0000;
     border: none;
     color: white;
-    /*padding: 20px 34px;*/
     font-family: Roboto, Arial, sans-serif;
+    font-size: 14px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 14px;
+    width: 25%;
     margin: 4px 2px;
+    margin-left: 50px;
     cursor: pointer;
 }
